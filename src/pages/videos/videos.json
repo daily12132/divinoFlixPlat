@@ -1,0 +1,138 @@
+
+{
+    "maisAssistidos": [
+      {
+        "id": 1,
+        "title": "A ARCA DE NOÉ",
+        "title2": "A Arca de Noé | Aprendendo a Ser Obediente e Respeitar a Deus",
+        "description": "🚢 Descubra como Noé, guiado por sua fé inabalável e devoção, seguiu as instruções de Deus para construir uma arca gigantesca, a fim de salvar os animais e sua família de um grande dilúvio. Testemunhe o espetáculo incrível dos animais entrando de dois em dois e a pomba retornando com um ramo de oliveira, simbolizando a esperança e a promessa de Deus.",
+        "videoUrl": "https://www.youtube.com/embed/Lmsyl6pj2h0?si=C9sYredhGSorapo8",
+        "bannerSrc": "/thumbs/8.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "id": 2,
+        "title": "CRUCIFICAÇÃO E RESSURREIÇÃO",
+        "title2": "A Crucificação e a Ressurreição de Jesus",
+        "description": "A Crucificação e a Ressurreição de Jesus",
+        "videoUrl": "https://www.youtube.com/embed/kZI2BlQBjrg?si=s_ggNTUmRijPBwhk",
+        "bannerSrc": "/thumbs/20.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "id": 3,
+        "title": "O QUE ACONTECEU COM A BABILÓNIA",
+        "title2": "VEJA O QUE ACONTECEU COM A BABILÓNIA",
+        "description": "VEJA O QUE ACONTECEU COM A BABILÓNIA",
+        "videoUrl": "https://www.youtube.com/embed/42tygKe3hN4?si=I5lhRb-YINU72nSQ",
+        "bannerSrc": "/thumbs/32.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "id": 4,
+        "title": "HISTÓRIA DE DAVI X GOLIÁS",
+        "title2": "A HISTÓRIA DE DAVI X GOLIÁS",
+        "description": "HISTÓRIA DE DAVI X GOLIÁS",
+        "videoUrl": "https://www.youtube.com/embed/wjffU-M8cIc?si=L7Q-e1KWJNZMNPnp",
+        "bannerSrc": "/thumbs/6.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "id": 5,
+        "title": "DANIEL NA COVA DOS LEÕES",
+        "title2": "A História De Daniel Na Cova Dos Leões",
+        "description": "A História De Daniel Na Cova Dos Leões",
+        "videoUrl": "https://www.youtube.com/embed/KtfKtPsIsDg?si=j88tE2sdSAfI1Rzh",
+        "bannerSrc": "/thumbs/11.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "id": 6,
+        "title": "ABRAÃO O PAI DA FÉ",
+        "title2": "Abraão O Pai da Fé Aprendendo Sobre A Obediência",
+        "description": "✨Abraão O Pai da Fé Aprendendo Sobre A Obediência",
+        "videoUrl": "https://www.youtube.com/embed/HnbrY92_0YI?si=Vp3n4FIxjWkuDA-j",
+        "bannerSrc": "/thumbs/17.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "id": 7,
+        "title": "HISTÓRIA DE SOFONIAS",
+        "title2": "A INCRÍVEL HISTORIA DE SOFONIAS APRENDENDO",
+        "description": "🙏A INCRÍVEL HISTORIA DE SOFONIAS APRENDENDO🌟💖",
+        "videoUrl": "https://www.youtube.com/embed/vuS8K2SHKfU?si=LzHrWjuuq2dNmnbx",
+        "bannerSrc": "/thumbs/13.webp",
+        "width": 640,
+        "height": 360
+      }
+    ],
+    "lancamentos": [
+      {
+        "id": 8,
+        "title": "PROFETA JONAS",
+        "title2": "A Historia do Profeta Jonas A grande lição",
+        "description": "A Historia do Profeta Jonas A grande lição🤗.",
+        "videoUrl": "https://www.youtube.com/embed/kxkvcwMKEH0?si=knT5R8rzEB1lOo6S",
+        "bannerSrc": "/thumbs/10.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "id": 9,
+        "title": "SALMO 17",
+        "title2": "SALMO 17 PEDINDO CORAGEM PRA DEUS",
+        "description": "🌈📖SALMO 17 PEDINDO CORAGEM PRA DEUS",
+        "videoUrl": "https://www.youtube.com/embed/eMgcZLneq28?si=cU78fmdgfoF5fUXr",
+        "bannerSrc": "/thumbs/16.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "id": 10,
+        "title": "PROVÉRBIOS 1",
+        "title2": "PROVÉRBIOS 1 Sabedoria Oração e Pai Nosso✨🙏",
+        "description": "🌟 PROVÉRBIOS 1 Sabedoria Oração e Pai Nosso",
+        "videoUrl": "https://www.youtube.com/embed/Fd8y2U1y4p0?si=aZw2FXl4WdUJ4w4B",
+        "bannerSrc": "/thumbs/3.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "id": 11,
+        "title": "CAIM E ABEL",
+        "title2": "Caim e Abel Aprendendo a Agradar a Deus",
+        "description": "Caim e Abel Aprendendo a Agradar a Deus",
+        "videoUrl": "https://www.youtube.com/embed/ru0IRAxNJNQ?si=KX0-W9VHUSMYeMxU",
+        "bannerSrc": "/thumbs/21.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "id": 12,
+        "title": "SANSÃO E DALILA",
+        "title2": "Sansão e Dalila Aprendendo Sobre as Consequências",
+        "description": "Sansão e Dalila Aprendendo Sobre as Consequências",
+        "videoUrl": "https://www.youtube.com/embed/5d5XNSDaoNQ?si=kgVabTgCbdee8m8i",
+        "bannerSrc": "/thumbs/29.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "id": 13,
+        "title": "A HISTÓRIA DE AMÓS",
+        "title2": "A história de Amós Ensinando a amar uns aos outros",
+        "description": "A história de Amós Ensinando a amar uns aos outros",
+        "videoUrl": "https://www.youtube.com/embed/q59BCkqwJ-c?si=ommHtyO_umYTfDiJ",
+        "bannerSrc": "/thumbs/18.webp",
+        "width": 640,
+        "height": 360
+      }
+    ]
+  }
+  

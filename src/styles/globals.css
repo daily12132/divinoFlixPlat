@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --textcolor: #ffffff;
+  --background: #000000;
+}
+
+body {
+  color: var(--textcolor);
+  background: var(--background);
+
+  button{
+    cursor: pointer;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

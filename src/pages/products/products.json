@@ -1,0 +1,34 @@
+
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Desenhos para colorir",
+        "description": "Dê vida às imaginações vibrantes com 'Arte em Cores', a coleção perfeita de atividades para colorir com temas da bíblia que inspira a criatividade em todas as idades.",
+        "checkoutUrl": "https://pay.kirvano.com/cb6c19fe-5b6d-4afc-ab92-9ce97f1aae29",
+        "bannerSrc": "/products/product2.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "id": 2,
+        "title": "Músicas gospel infantíl",
+        "description": "ATENÇÃO, CRIANÇADA! Reunimos aqui uma seleção de música especiais para vocês pularem, dançarem e se divertirem muito adorando ao Senhor!",
+        "checkoutUrl": "https://pay.kirvano.com/d3938581-5adb-48cb-a997-b8f42d41a812",
+        "bannerSrc": "/products/product3.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "id": 3,
+        "title": "Mapas mentais biblícos",
+        "description": "Mapas mentais são bem visuais para estudar e absorver os ensinamentos da Bíblia. ajudam a organizar e a compreender as complexas narrativas, conceitos e conexões encontrados nos textos sagrados.",
+        "checkoutUrl": "https://pay.kirvano.com/d57603ce-3a61-47d3-9087-9ef9d6d2797c",
+        "bannerSrc": "/products/product1.webp",
+        "width": 640,
+        "height": 360
+      }
+      
+    ]
+  }
+  
